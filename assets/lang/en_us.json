@@ -2,6 +2,8 @@
 	"advancement.advancementNotFound": "Unknown achievement: %s",
 	"advancements.toast.task": "Achievement Get!",
 	"argument.entity.options.advancements.description": "Players with achievements",
+	"block.minecraft.poppy": "Rose",
+	"block.minecraft.potted_poppy": "Potted Rose",
 	"chat.type.advancement.challenge": "%s has completed the challenge %s",
 	"chat.type.advancement.goal": "%s has reached the goal %s",
 	"chat.type.advancement.task": "%s has made the achievement %s",
