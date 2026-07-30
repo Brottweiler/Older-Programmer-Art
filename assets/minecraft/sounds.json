@@ -521,14 +521,6 @@
 		],
 		"subtitle": "subtitles.block.trapdoor.toggle"
 	},
-	"block.barrel.close": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.barrel.open": {
-		"replace": true,
-		"sounds": []
-	},
 	"block.basalt.break": {
 		"replace": true,
 		"sounds": [
@@ -1261,18 +1253,6 @@
 		],
 		"subtitle": "subtitles.block.trapdoor.toggle"
 	},
-	"block.chest.close": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.chest.locked": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.chest.open": {
-		"replace": true,
-		"sounds": []
-	},
 	"block.chiseled_bookshelf.break": {
 		"replace": true,
 		"sounds": [
@@ -1602,30 +1582,6 @@
 			}
 		],
 		"subtitle": "subtitles.block.generic.footsteps"
-	},
-	"block.copper_chest.close": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.copper_chest.open": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.copper_chest_oxidized.close": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.copper_chest_oxidized.open": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.copper_chest_weathered.close": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.copper_chest_weathered.open": {
-		"replace": true,
-		"sounds": []
 	},
 	"block.copper_door.close": {
 		"replace": true,
@@ -2132,14 +2088,6 @@
 			}
 		],
 		"subtitle": "subtitles.block.generic.footsteps"
-	},
-	"block.ender_chest.close": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.ender_chest.open": {
-		"replace": true,
-		"sounds": []
 	},
 	"block.fence_gate.close": {
 		"replace": true,
@@ -4526,14 +4474,6 @@
 			}
 		],
 		"subtitle": "subtitles.block.generic.footsteps"
-	},
-	"block.shulker_box.close": {
-		"replace": true,
-		"sounds": []
-	},
-	"block.shulker_box.open": {
-		"replace": true,
-		"sounds": []
 	},
 	"block.small_amethyst_bud.break": {
 		"replace": true,
