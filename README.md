@@ -13,6 +13,7 @@ This is a texture pack meant to be a small addon for the built-in Programmer Art
 - Beds
 - Font
 - Main and realms title
+- Block rotations
 
 The pack also remaps sounds to use original dirt/grass/stone/wood textures as well as smaller changes to strings for the British and American English languages.
 
@@ -25,3 +26,5 @@ Please arrange the packs in the following order.
 3. Programmer Art (built-in)
 
 Number 1 at the top, number 3 at the bottom.
+
+Even though this pack disables most block rotations I can find, I would also recommend installing the [NoTextureRotations](https://modrinth.com/mod/notexturerotations) mod to disable all texture rotations.
