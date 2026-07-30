@@ -3,6 +3,8 @@ Older Programmer Art
 
 This is a texture pack meant to be a small addon for the built-in Programmer Art pack to fix a few textures and sounds that I think should be there.
 
+[![](https://raw.githubusercontent.com/Brottweiler/Older-Programmer-Art/refs/heads/master/thumb-screenshot.png)](https://raw.githubusercontent.com/Brottweiler/Older-Programmer-Art/refs/heads/master/screenshot.png)
+
 # Changed things
 
 - Gravel
