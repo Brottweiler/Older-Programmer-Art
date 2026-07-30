@@ -14,7 +14,7 @@ This is a texture pack meant to be a small addon for the built-in Programmer Art
 - Font
 - Main and realms title
 
-The pack also remaps sounds to use original dirt/sand/grass/stone/wood textures as well as smaller changes to strings for the British and American English languages.
+The pack also remaps sounds to use original dirt/grass/stone/wood textures as well as smaller changes to strings for the British and American English languages.
 
 # Installation
 
