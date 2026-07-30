@@ -8,6 +8,8 @@ This is a texture pack meant to be a small addon for the built-in Programmer Art
 - Gravel
 - Lapis Lazuli Block
 - Bricks
+- Cobblestone (rearranged)
+- Rose (poppy)
 - Beds
 - Font
 - Main and realms title
