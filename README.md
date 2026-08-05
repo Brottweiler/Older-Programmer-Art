@@ -11,6 +11,7 @@ This is a texture pack meant to be a small addon for the built-in Programmer Art
 
 - Gravel
 - Lapis Lazuli Block
+- Iron Block
 - Bricks
 - Cobblestone (rearranged)
 - Rose (poppy)
