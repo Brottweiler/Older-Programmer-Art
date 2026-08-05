@@ -23,8 +23,8 @@ The pack also remaps sounds to use original dirt/grass/stone/wood textures as we
 
 Please arrange the packs in the following order.
 
-1. [Programmer Art Fix](https://modrinth.com/resourcepack/programmer-art-fix)
-2. Older Programmer Art (this pack)
+1. Older Programmer Art (this pack)
+2. [Programmer Art Fix](https://modrinth.com/resourcepack/programmer-art-fix)
 3. Programmer Art (built-in)
 
 Number 1 at the top, number 3 at the bottom.
