@@ -1,11 +1,13 @@
 Older Programmer Art
-=========
+====================
 
-This is a texture pack meant to be a small addon for the built-in Programmer Art pack to fix a few textures and sounds that I think should be there.
+This is a texture pack meant to be a small addon for the built-in Programmer Art texture pack to fix a few textures and sounds that I think should be there.
+
+# Screenshot
 
 [![](https://raw.githubusercontent.com/Brottweiler/Older-Programmer-Art/refs/heads/master/thumb-screenshot.png)](https://raw.githubusercontent.com/Brottweiler/Older-Programmer-Art/refs/heads/master/screenshot.png)
 
-# Changed things
+# Changes
 
 - Gravel
 - Lapis Lazuli Block
@@ -23,10 +25,15 @@ The pack also remaps sounds to use original dirt/grass/stone/wood textures as we
 
 Please arrange the packs in the following order.
 
-1. Older Programmer Art (this pack)
-2. [Programmer Art Fix](https://modrinth.com/resourcepack/programmer-art-fix)
-3. Programmer Art (built-in)
+1. [Blocky Chests](https://www.planetminecraft.com/texture-pack/blocky-chests/) (*optional*)
+2. [Older Programmer Art](https://github.com/Brottweiler/Older-Programmer-Art) (this pack, **required**)
+3. [Programmer Art Fix](https://modrinth.com/resourcepack/programmer-art-fix) (**required**)
+4. [Programmer Art](https://minecraft.wiki/w/Programmer_Art) (built-in, **required**)
 
 Number 1 at the top, number 3 at the bottom.
 
+# Honourable Mentions
+
 Even though this pack disables most block rotations I can find, I would also recommend installing the [NoTextureRotations](https://modrinth.com/mod/notexturerotations) mod to disable all texture rotations.
+
+[Blocky Chests](https://www.planetminecraft.com/texture-pack/blocky-chests/) is a texture pack that includes full block models of chests if you like that.
