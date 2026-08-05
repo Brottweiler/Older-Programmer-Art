@@ -45,6 +45,7 @@
 	"mco.configure.world.resourcepack.question": "You need a custom texture pack to play on this Realm\n\nDo you want to download it and play?",
 	"mco.configure.world.resourcepack.question.line1": "You need a custom texture pack to play on this Realm",
 	"mco.download.resourcePack.fail": "Failed to download texture pack!",
+	"menu.online": "Realms",
 	"multiplayer.applyingPack": "Applying texture pack",
 	"multiplayer.requiredTexturePrompt.disconnect": "This server requires a custom texture pack",
 	"multiplayer.requiredTexturePrompt.line1": "This server requires the use of a custom texture pack.",
