@@ -9,15 +9,15 @@ This is a texture pack meant to be a small addon for the built-in Programmer Art
 
 # Changes
 
-- Gravel
-- Lapis Lazuli Block
-- Iron Block
-- Bricks
-- Cobblestone (rearranged)
-- Rose (poppy)
-- Beds
+- Gravel (changed in 1.3.1)
+- Lapis Lazuli Block (changed in 1.6.1)
+- Iron Block (changed in 1.0.0)
+- Bricks (changed in b1.7)
+- Cobblestone (rearranged, changed in b1.7)
+- Rose (poppy, changed in 1.7.2)
+- Beds (changed in 1.12)
 - Font
-- Main and realms title
+- Main and realms title (changed in 1.20)
 - Block rotations
 
 The pack also remaps sounds to use original dirt/grass/stone/wood textures as well as smaller changes to strings for the British and American English languages.
